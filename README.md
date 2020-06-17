@@ -1,6 +1,6 @@
 # GITHUB
 Basic course for undergraduate students.
-Just a **sample** repository for *learning* ──Github──.
+Just a **sample** repository for *learning* ~~Github~~.
 
 - first time
 - second time
@@ -27,7 +27,7 @@ Text
 ```html
 
 <p> Use Alt+96 to make this symbol ` three times </p>
-<p> Also use Alt + 196 to make this other symbol ─ two times </p>
+<p> Also use Alt + 126 to make this other symbol ─ two times </p>
 ```
 
 >blockquote text below the paragraph
