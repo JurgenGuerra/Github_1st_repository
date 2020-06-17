@@ -1,6 +1,6 @@
 # GITHUB
 Basic course for undergraduate students.
-Just a *sample* repository for learning --Github--.
+Just a **sample** repository for *learning* ──Github──.
 
 - first time
 - second time
@@ -11,7 +11,7 @@ Just a *sample* repository for learning --Github--.
 
 [How to use README Files](https://www.youtube.com/watch?v=eJojC3lSkwg)
 
-This pharagraph has some 'code' and 'inline code':
+This pharagraph has some `code` and `inline code`:
 
 ```python
 
@@ -27,7 +27,7 @@ Text
 ```html
 
 <p> Use Alt+96 to make this symbol ` three times </p>
-
+<p> Also use Alt + 196 to make this other symbol ─ two times </p>
 ```
 
 >blockquote text below the paragraph
