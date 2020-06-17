@@ -19,14 +19,17 @@ This pharagraph has some 'code' and 'inline code':
  import matplotlib as mtp:;
  
 '''
-![alt text][https://www.purina.es/sites/g/files/mcldtz1656/files/2017-11/Bringing-Your-Kitten-Home_0.jpg]
+
+![alt text](https://www.purina.es/sites/g/files/mcldtz1656/files/2017-11/Bringing-Your-Kitten-Home_0.jpg)
 Text
+
 
 '''html
 
 <p> A paragraph example </p>
 
 '''
+
 >blockquote text below the paragraph
 
 | heading | header | head |
